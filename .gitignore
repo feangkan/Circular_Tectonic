@@ -1,0 +1,61 @@
+# Rhino & CAD
+*.3dm
+*.3dm.bak
+*.bak
+*.dwg
+*.dwg.bak
+*.dgn
+*.rvt
+*.ifc
+
+# Grasshopper
+*.gha
+*.gh
+*.ghpy
+
+# Office & Docs
+*.docx
+*.xlsx
+*.pptx
+*.tmp
+
+# Large files
+*.mp4
+*.mov
+*.avi
+*.zip
+*.7z
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
+.directory
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large image sequences
+render_output/
+*.exr
+*.psd
+*.ai
+
+# Build artifacts
+node_modules/
+dist/
+build/
+
+# Local config
+.env
+secrets.txt
