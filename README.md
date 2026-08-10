@@ -20,6 +20,9 @@ This repository documents research, material exploration, and design development
 - **04_Pictures** — Sketches, renders, photography, and diagrams
 - **05_Material_Research** — GFRC testing, timber specs, circular materials exploration, structural testing
 - **06_Precedent_Research** — Case studies, circular practice analogues, relevant precedents
+- **07_Computational_Design** — Growth algorithms, biomorphic/biomimetic computational design research
+- **08_Fabrication_Methods** — Joining and forming technique research (fold/bend, casting, welding, riveting, aggregation, dry joint)
+- **09_Systemic_Design_Framework** — Cross-cutting material → fabrication → precedent → strategy chains, tying material research to buildability
 
 ---
 
