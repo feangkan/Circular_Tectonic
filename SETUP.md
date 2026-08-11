@@ -46,6 +46,19 @@ git push origin main
 
 ---
 
+## Using This Repo as an Obsidian Vault
+
+The repo root doubles as an Obsidian vault — no separate copy, no account needed.
+
+1. Open the **Obsidian** app → **Open folder as vault** → select this `Circular_Tectonic` folder.
+2. Start from [[Home]] (or `Home.md`) — it links out to every folder and document.
+3. Quick-capture templates live in `00_Templates/` (material test, precedent case study, fabrication method, weekly quick note). Insert one with `Ctrl/Cmd + P` → "Templates: Insert template".
+4. The visual map of the systemic research chains is [[09_Systemic_Design_Framework/Systemic_Framework.canvas]] — open it from the file explorer or the bookmark in the left sidebar.
+5. `.obsidian/` config (theme, plugins, templates folder) is versioned so it looks the same on any machine that clones the repo. Only your personal window layout (`workspace.json`) is gitignored.
+6. Git workflow doesn't change — edit notes in Obsidian, then `git add` / `git commit` / `git push` exactly as below.
+
+---
+
 ## File Naming Convention
 
 To keep things organized:

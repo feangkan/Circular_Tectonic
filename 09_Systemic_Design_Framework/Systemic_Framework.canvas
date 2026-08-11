@@ -1,0 +1,107 @@
+{
+  "nodes": [
+    {"id":"title","type":"text","x":0,"y":-180,"width":1220,"height":120,"text":"# Systemic Map: Material → Fabrication → Precedent → Strategy\n\nVisual index of the 11 chains in [[MATERIAL_FABRICATION_PRECEDENT_SYSTEM_MAP]]. Each row is one chain: read left to right. Add new chains as new material research lands."},
+
+    {"id":"m1","type":"text","x":0,"y":0,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed steel\n(large found fragment)"},
+    {"id":"f1","type":"text","x":300,"y":0,"width":260,"height":110,"color":"4","text":"**Fabrication**\nMinimal-intervention\nwelding / reinforcement"},
+    {"id":"p1","type":"text","x":600,"y":0,"width":280,"height":110,"color":"6","text":"**Precedent**\nTemp'L Pavilion\n(Shinslab, Seoul 2016)"},
+    {"id":"s1","type":"text","x":920,"y":0,"width":300,"height":110,"color":"2","text":"**Strategy**\nPreserve found form; fabricate only enough to stabilise it"},
+
+    {"id":"m2","type":"text","x":0,"y":170,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed steel sections\n(fixed inventory)"},
+    {"id":"f2","type":"text","x":300,"y":170,"width":260,"height":110,"color":"4","text":"**Fabrication**\nBolted / dry-joint\nmodular frame"},
+    {"id":"p2","type":"text","x":600,"y":170,"width":280,"height":110,"color":"6","text":"**Precedent**\nAntepavilion 2026\nshortlist (London)"},
+    {"id":"s2","type":"text","x":920,"y":170,"width":300,"height":110,"color":"2","text":"**Strategy**\nDesign follows available stock, not the reverse"},
+
+    {"id":"m3","type":"text","x":0,"y":340,"width":260,"height":120,"color":"5","text":"**Material**\nReclaimed / thin\nmetal sheet"},
+    {"id":"f3","type":"text","x":300,"y":340,"width":260,"height":120,"color":"4","text":"**Fabrication**\nFold-informed biomimetic\nform + bolted dry joint"},
+    {"id":"p3","type":"text","x":600,"y":340,"width":280,"height":120,"color":"6","text":"**Precedent**\nThin-Shell Metal\nWoven Pavilion (XISUI)"},
+    {"id":"s3","type":"text","x":920,"y":340,"width":300,"height":120,"color":"2","text":"**Strategy** ⭐ closest match to project direction\nBiomorphic structural logic + disassembly-first fabrication choice"},
+
+    {"id":"m4","type":"text","x":0,"y":520,"width":260,"height":120,"color":"5","text":"**Material**\nGFRC / cast\nconcrete panels"},
+    {"id":"f4","type":"text","x":300,"y":520,"width":260,"height":120,"color":"4","text":"**Fabrication**\nDiscretised shell casting,\nflexible mould table"},
+    {"id":"p4","type":"text","x":600,"y":520,"width":280,"height":120,"color":"6","text":"**Precedent**\nThinking Space / Testing Space\n(+ Schlaich's Stuttgart 1977)"},
+    {"id":"s4","type":"text","x":920,"y":520,"width":300,"height":120,"color":"2","text":"**Strategy**\nCo-design casting geometry & connections in the same parametric model"},
+
+    {"id":"m5","type":"text","x":0,"y":700,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed sports\nequipment (skis)"},
+    {"id":"f5","type":"text","x":300,"y":700,"width":260,"height":110,"color":"4","text":"**Fabrication**\nGraded assignment +\nelastic bending gridshell"},
+    {"id":"p5","type":"text","x":600,"y":700,"width":280,"height":110,"color":"6","text":"**Precedent**\nSki Pavilion\n(EPFL, Switzerland 2017)"},
+    {"id":"s5","type":"text","x":920,"y":700,"width":300,"height":110,"color":"2","text":"**Strategy**\nGrade material by property, assign to structural role"},
+
+    {"id":"m6","type":"text","x":0,"y":860,"width":260,"height":110,"color":"5","text":"**Material**\nCLT production\noffcuts"},
+    {"id":"f6","type":"text","x":300,"y":860,"width":260,"height":110,"color":"4","text":"**Fabrication**\nCut / shape into\npolygonal shell elements"},
+    {"id":"p6","type":"text","x":600,"y":860,"width":280,"height":110,"color":"6","text":"**Precedent**\nDTC Timbershell"},
+    {"id":"s6","type":"text","x":920,"y":860,"width":300,"height":110,"color":"2","text":"**Strategy**\nOffcut's actual boundary = design input, not a defect"},
+
+    {"id":"m7","type":"text","x":0,"y":1020,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed timber\n(mixed grades)"},
+    {"id":"f7","type":"text","x":300,"y":1020,"width":260,"height":110,"color":"4","text":"**Fabrication**\nParametric structural\ndistribution"},
+    {"id":"p7","type":"text","x":600,"y":1020,"width":280,"height":110,"color":"6","text":"**Precedent**\nWood ReFramed"},
+    {"id":"s7","type":"text","x":920,"y":1020,"width":300,"height":110,"color":"2","text":"**Strategy**\nComputational optimisation counters unknown material properties"},
+
+    {"id":"m8","type":"text","x":0,"y":1180,"width":260,"height":110,"color":"5","text":"**Material**\nGlass fibre\n(in GFRC)"},
+    {"id":"f8","type":"text","x":300,"y":1180,"width":260,"height":110,"color":"4","text":"**Fabrication**\nBasalt fibre substitution,\nsame casting process"},
+    {"id":"p8","type":"text","x":600,"y":1180,"width":280,"height":110,"color":"6","text":"**Precedent**\nBasalt Fibre Reinforced\nPrecast Concrete Panels"},
+    {"id":"s8","type":"text","x":920,"y":1180,"width":300,"height":110,"color":"2","text":"**Strategy**\nDrop-in fibre swap for lower carbon/cost"},
+
+    {"id":"m9","type":"text","x":0,"y":1340,"width":260,"height":120,"color":"5","text":"**Material**\nReclaimed / irregular\ntimber"},
+    {"id":"f9","type":"text","x":300,"y":1340,"width":260,"height":120,"color":"4","text":"**Fabrication**\nDiscrete mortise-tenon\njoinery, standardised rules"},
+    {"id":"p9","type":"text","x":600,"y":1340,"width":280,"height":120,"color":"6","text":"**Precedent**\nXu, Teixeira & Shafiei (2025)\n+ Sanchez Combinatorial Design"},
+    {"id":"s9","type":"text","x":920,"y":1340,"width":300,"height":120,"color":"2","text":"**Strategy**\nStandardise the joint rules, not the material"},
+
+    {"id":"m10","type":"text","x":0,"y":1520,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed rope"},
+    {"id":"f10","type":"text","x":300,"y":1520,"width":260,"height":110,"color":"4","text":"**Fabrication**\nTension-to-compression\nreversal, coiled modules"},
+    {"id":"p10","type":"text","x":600,"y":1520,"width":280,"height":110,"color":"6","text":"**Precedent**\nRecycled Rope Pavilion\n(Leinemann | Ortiz)"},
+    {"id":"s10","type":"text","x":920,"y":1520,"width":300,"height":110,"color":"2","text":"**Strategy**\nDesign a module to make the loading reversal work"},
+
+    {"id":"m11","type":"text","x":0,"y":1680,"width":260,"height":110,"color":"5","text":"**Material**\nReclaimed fishing net"},
+    {"id":"f11","type":"text","x":300,"y":1680,"width":260,"height":110,"color":"4","text":"**Fabrication**\nWoven / knitted skin via\nexisting recycling infra"},
+    {"id":"p11","type":"text","x":600,"y":1680,"width":280,"height":110,"color":"6","text":"**Precedent**\n¡Qué Faena(r)!\n(+cruz.atelier)"},
+    {"id":"s11","type":"text","x":920,"y":1680,"width":300,"height":110,"color":"2","text":"**Strategy**\nLeverage an already-established recycling supply chain"},
+
+    {"id":"source","type":"file","x":0,"y":1860,"width":420,"height":80,"file":"09_Systemic_Design_Framework/MATERIAL_FABRICATION_PRECEDENT_SYSTEM_MAP.md"}
+  ],
+  "edges": [
+    {"id":"e1a","fromNode":"m1","toNode":"f1","fromSide":"right","toSide":"left"},
+    {"id":"e1b","fromNode":"f1","toNode":"p1","fromSide":"right","toSide":"left"},
+    {"id":"e1c","fromNode":"p1","toNode":"s1","fromSide":"right","toSide":"left"},
+
+    {"id":"e2a","fromNode":"m2","toNode":"f2","fromSide":"right","toSide":"left"},
+    {"id":"e2b","fromNode":"f2","toNode":"p2","fromSide":"right","toSide":"left"},
+    {"id":"e2c","fromNode":"p2","toNode":"s2","fromSide":"right","toSide":"left"},
+
+    {"id":"e3a","fromNode":"m3","toNode":"f3","fromSide":"right","toSide":"left"},
+    {"id":"e3b","fromNode":"f3","toNode":"p3","fromSide":"right","toSide":"left"},
+    {"id":"e3c","fromNode":"p3","toNode":"s3","fromSide":"right","toSide":"left"},
+
+    {"id":"e4a","fromNode":"m4","toNode":"f4","fromSide":"right","toSide":"left"},
+    {"id":"e4b","fromNode":"f4","toNode":"p4","fromSide":"right","toSide":"left"},
+    {"id":"e4c","fromNode":"p4","toNode":"s4","fromSide":"right","toSide":"left"},
+
+    {"id":"e5a","fromNode":"m5","toNode":"f5","fromSide":"right","toSide":"left"},
+    {"id":"e5b","fromNode":"f5","toNode":"p5","fromSide":"right","toSide":"left"},
+    {"id":"e5c","fromNode":"p5","toNode":"s5","fromSide":"right","toSide":"left"},
+
+    {"id":"e6a","fromNode":"m6","toNode":"f6","fromSide":"right","toSide":"left"},
+    {"id":"e6b","fromNode":"f6","toNode":"p6","fromSide":"right","toSide":"left"},
+    {"id":"e6c","fromNode":"p6","toNode":"s6","fromSide":"right","toSide":"left"},
+
+    {"id":"e7a","fromNode":"m7","toNode":"f7","fromSide":"right","toSide":"left"},
+    {"id":"e7b","fromNode":"f7","toNode":"p7","fromSide":"right","toSide":"left"},
+    {"id":"e7c","fromNode":"p7","toNode":"s7","fromSide":"right","toSide":"left"},
+
+    {"id":"e8a","fromNode":"m8","toNode":"f8","fromSide":"right","toSide":"left"},
+    {"id":"e8b","fromNode":"f8","toNode":"p8","fromSide":"right","toSide":"left"},
+    {"id":"e8c","fromNode":"p8","toNode":"s8","fromSide":"right","toSide":"left"},
+
+    {"id":"e9a","fromNode":"m9","toNode":"f9","fromSide":"right","toSide":"left"},
+    {"id":"e9b","fromNode":"f9","toNode":"p9","fromSide":"right","toSide":"left"},
+    {"id":"e9c","fromNode":"p9","toNode":"s9","fromSide":"right","toSide":"left"},
+
+    {"id":"e10a","fromNode":"m10","toNode":"f10","fromSide":"right","toSide":"left"},
+    {"id":"e10b","fromNode":"f10","toNode":"p10","fromSide":"right","toSide":"left"},
+    {"id":"e10c","fromNode":"p10","toNode":"s10","fromSide":"right","toSide":"left"},
+
+    {"id":"e11a","fromNode":"m11","toNode":"f11","fromSide":"right","toSide":"left"},
+    {"id":"e11b","fromNode":"f11","toNode":"p11","fromSide":"right","toSide":"left"},
+    {"id":"e11c","fromNode":"p11","toNode":"s11","fromSide":"right","toSide":"left"}
+  ]
+}
