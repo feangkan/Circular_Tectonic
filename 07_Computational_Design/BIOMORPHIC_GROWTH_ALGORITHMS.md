@@ -47,6 +47,10 @@ This is the throughline connecting all three parts of this week's research:
 2. **Materials (`05_Material_Research/`):** reclaimed metal scrap and GFRC offcuts are inherently variable — matched to the network's own variability rather than fighting it
 3. **Fabrication (`08_Fabrication_Methods/`):** connection methods (dry joint, rivet, weld, cold casting) chosen specifically for their ability to join non-standard, variable-geometry members — see fabrication doc for how each method performs against that requirement
 
+## 4a. Week 4 Update — Shell-Specific Direction (Tutor Feedback: Metal Sheet + Fabric)
+
+Following Week 3 feedback, the material scope narrowed to reclaimed metal sheets + fabric, and the pavilion direction narrowed to a shell/hybrid-shell structure. This shifts emphasis from differential growth (above) toward a two-step process better suited to a form-found shell skin: **Kangaroo2 physics relaxation** for the overall shell shape, followed by **field-driven Voronoi/Delaunay subdivision** for panelisation, with panel size best-fit-matched against real reclaimed stock dimensions. Full reasoning, tectonic joint selection (overlapping/shingle), and the gradient logic tying panel overlap + rust/treated finish together: see `01_Weekly_Tasks/Week_04_ShellFormFinding/02_Computational_Strategy.md`.
+
 ## 5. Open Questions to Bring to Studio
 
 - Should growth simulation run in 3D directly at pavilion scale, or generate a 2D/surface pattern first that's then extruded/thickened into structure? (Affects whether Kangaroo2 differential growth or a mesh-relaxation approach is more appropriate.)
