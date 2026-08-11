@@ -22,6 +22,9 @@ This is the entry point into the vault. Everything below links to a real file in
 ## Weekly workflow
 - [[01_Weekly_Tasks/README|Weekly Tasks Overview]]
 - [[01_Weekly_Tasks/WEEKLY_WORKFLOW|Weekly Workflow Process]]
+- [[01_Weekly_Tasks/Week_04_ShellFormFinding/00_Tutor_Feedback|Week 4 — Tutor Feedback]]
+- [[01_Weekly_Tasks/Week_04_ShellFormFinding/01_Design_Direction|Week 4 — Design Direction]]
+- [[01_Weekly_Tasks/Week_04_ShellFormFinding/02_Computational_Strategy|Week 4 — Computational Strategy]]
 - Use the **Templates** core plugin (`Ctrl/Cmd + P` → "Templates: Insert template") with the files in [[00_Templates]] for quick captures between full weekly write-ups.
 
 ## Research streams
@@ -37,6 +40,7 @@ This is the entry point into the vault. Everything below links to a real file in
   - [[06_Precedent_Research/BIOMORPHIC_COMPUTATIONAL_REFERENCES|Biomorphic Computational References]]
   - [[06_Precedent_Research/UPCYCLING_ARCHITECTURE_RESEARCH|Upcycling Architecture Research]]
   - [[06_Precedent_Research/EXPANDED_PRECEDENTS_GUIDE|Expanded Precedents Guide]]
+  - [[06_Precedent_Research/WANG_SHU_PRECEDENT|Wang Shu Precedent]]
 - [[07_Computational_Design/BIOMORPHIC_GROWTH_ALGORITHMS|Computational Design — Growth Algorithms]]
 - [[08_Fabrication_Methods/FABRICATION_METHODS|Fabrication Methods]]
 - [[09_Systemic_Design_Framework/MATERIAL_FABRICATION_PRECEDENT_SYSTEM_MAP|Systemic Design Framework]] — the cross-cutting Material → Fabrication → Precedent → Strategy chains
