@@ -37,6 +37,7 @@ This is the entry point into the vault. Everything below links to a real file in
 - [[06_Precedent_Research/README|Precedent Research]] — case studies & analogues
   - [[06_Precedent_Research/GFRC_PRECEDENT|GFRC Precedent]]
   - [[06_Precedent_Research/MAIN_PRECEDENT_THIN_SHELL_METAL|Thin-Shell Metal Precedent]]
+  - [[06_Precedent_Research/MARC_FORNES_PAVILION_STUDY|Marc Fornes / THEVERYMANY — Technique, Materials, Structure Type]]
   - [[06_Precedent_Research/BIOMORPHIC_COMPUTATIONAL_REFERENCES|Biomorphic Computational References]]
   - [[06_Precedent_Research/UPCYCLING_ARCHITECTURE_RESEARCH|Upcycling Architecture Research]]
   - [[06_Precedent_Research/EXPANDED_PRECEDENTS_GUIDE|Expanded Precedents Guide]]

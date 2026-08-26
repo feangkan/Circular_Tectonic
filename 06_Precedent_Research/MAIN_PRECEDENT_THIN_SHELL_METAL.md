@@ -104,8 +104,8 @@ Identical underlying logic to Zephyr — <cite index="107-1">geometric panels ar
 - The Orb: https://theverymany.com/google and https://www.thisiscolossal.com/2025/04/marc-fornes-theverymany-the-orb/
 - THEVERYMANY studio methodology ("Structural Stripes" / "Crawling Assemblies"): https://theverymany.com/studio
 
-## Recommended Next Research Step (flagging, not yet done)
-THEVERYMANY has several other relevant built projects worth a quick look if more precedent depth is needed for slides: **Vaulted Willow** (Edmonton — 721 aluminium stripes, 14,043 connectors, fully quantified assembly process, 4-day build with a 4-person crew) and **PILOTI** (Bellevue — 6,665 parts, 180,900 rivets). Both would extend this same comparison table if useful.
+## Next Research Step — Done
+The two other THEVERYMANY projects flagged here (**Vaulted Willow**, Edmonton, and **PILOTI**, Bellevue) are now written up in full, alongside Zephyr and The Orb, in a dedicated Marc Fornes study: [[06_Precedent_Research/MARC_FORNES_PAVILION_STUDY|Marc Fornes / THEVERYMANY — Technique, Materials, Structure Type]]. That document covers his computational "Structural Stripes"/"Crawling Assemblies" method, alloy/gauge specifics across all four built projects, structural typology, and a four-project comparison table — go there for anything beyond the two Fornes projects summarised above.
 
 ---
 
